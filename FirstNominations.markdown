@@ -14,6 +14,8 @@ You can use this thread to nominate a weekly game for the next vote. Just the ga
 
 ex:
 
-    Team Fortress 2
+    Transformice
     Price: Free
-    Platform: Windows/Mac/Linux
+    Platform: Windows/Mac/Linux/Broswer
+    Description: A fun old flash game where you try to grab cheese as quickly as you can with the help of a shaman.
+                 It times how fast you get the cheese which adds a speed component to it as well.
