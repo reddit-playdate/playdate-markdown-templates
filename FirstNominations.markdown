@@ -1,0 +1,19 @@
+## What are Playdate's
+
+Playdate's will be week long events where we play the same game together. The idea is to be able to find someone to play it whenever you are free vs having one specific time people can't make.
+
+Feel free to try and play other games two of course.
+
+## Voting
+
+Check out [this for](https://discordapp.com/invite/Pqyp543/) and vote for your favourite game or games. We'll choose the winner at <INSERT_DATE_HERE> an make an announcement for it.
+
+## Nominations
+
+You can use this thread to nominate a weekly game for the next vote. Just the game name it fine, but try to include other things as well (price/brief description).
+
+ex:
+
+    Team Fortress 2
+    Price: Free
+    Platform: Windows/Mac/Linux
