@@ -16,4 +16,4 @@ As an incentive I will raffle off Steam keys to participating playmates. I have 
 
 You're already doing it, and thank you for that. Thanks for reading, commenting, and voting on threads here. Keep it up! When the first announcement goes up make sure to vote or nominate games you'd like to see in future polls.
 
-Play games with us. Consider joining us on [Discord](https://discord.gg/playdate). Join our [Steam user group](http://steamcommunity.com/groups/joinplaydate) and see announcements when we go live. Help us [write Steam reviews](https://www.evernote.com/pub/playdatesnowcrash/steamcurator) to make the group more visible.
+Play games with us. Consider joining us on [Discord](https://discord.gg/playdate). Join our [Steam user group](http://steamcommunity.com/groups/joinplaydate) and see announcements when we go live. You can also gelp us write Steam reviews to make the group more visible.
