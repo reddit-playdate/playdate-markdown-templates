@@ -15,7 +15,7 @@ Example:
     Transformice
     Price: Free
     Platform: Windows/Mac/Linux/Broswer
-    Description: A fun old flash game where you try to grab cheese as quickly as you can with the help of a shaman.
+    Description: A fun old flash game where you try to grab cheese as fast as you can with a shaman's help.
                  It times how fast you get the cheese which adds a speed component to it as well.
 
 ## Voting
