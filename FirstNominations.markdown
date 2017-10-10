@@ -24,4 +24,4 @@ On Wednesday, another post will be going up with a form to vote on. You can also
 
 ## Results
 
-On Friday, on final thread will go up with the winner of the voting round. This game will be the Playdate game we play for the next week (until the following Friday). The main platform for live organization is our [discord server](https://discord.gg/playdate), but feel free to comment in the results thread, make a post in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), or join our [steam group](http://steamcommunity.com/groups/joinplaydate) as well.
+On Friday, one final thread will go up with the winner of the voting round. This game will be the Playdate game we play for the next week (until the following Friday). The main platform for live organization is our [discord server](https://discord.gg/playdate), but feel free to comment in the results thread, make a post in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), or join our [steam group](http://steamcommunity.com/groups/joinplaydate) as well.
