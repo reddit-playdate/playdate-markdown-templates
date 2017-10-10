@@ -4,7 +4,7 @@
 
 A playdate is a week-long event where Redditors play the same game together. The idea is to be able to find someone to play it whenever you are free versus having one specific time for people to flake out on. It can be to revive your favorite (but dead) multiplayer game, hunt unearned multiplayer achievements, or whatever other reason you can come up with.
 
-Feel free to play other games too, of course ;-) We're just staying bringing /r/Playdate back to our [roots](https://www.reddit.com/r/gaming/comments/j8hpz/idea_for_subreddit_organize_nights_around/).
+Feel free to play other games too, of course ;-) We're just bringing /r/Playdate back to its [roots](https://www.reddit.com/r/gaming/comments/j8hpz/idea_for_subreddit_organize_nights_around/).
 
 ## Nominations
 
