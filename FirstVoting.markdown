@@ -10,7 +10,7 @@ Feel free to play other games too, of course ;-) We're just bringing /r/Playdate
 
 We had a [nominations thread on monday](https://www.reddit.com/r/Playdate/comments/75dnoi/weekly_playdate_nominations_post/). Now it's time to vote.
 
-You can use [this](https://docs.google.com/forms/d/1lj9o23YQHXRSI80xdXLAIVUuqFBYyiE_1HtTq6bEzmg) to vote on your favorite game to play for the next week. Feel free to use this thread or other places (like [discord](https://discord.gg/playdate)) to talk about the games and persuade people to vote your way.
+You can use [this form](https://docs.google.com/forms/d/1lj9o23YQHXRSI80xdXLAIVUuqFBYyiE_1HtTq6bEzmg) to vote on your favorite game to play for the next week. Feel free to use this thread or other places (like [discord](https://discord.gg/playdate)) to talk about the games and persuade people to vote your way.
 
 ## Results
 
