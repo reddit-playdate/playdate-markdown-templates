@@ -12,11 +12,13 @@ We had a [nominations thread](https://redd.it/75dnoi) on Monday, [voting thread]
 
 This week's playdate is:
 
-    INSERT_GAME
-    Price: INSERT_PRICE
-    Description: INSERT_DESCRIPTION
+    Alien Swarm Reactive Drop
+    Price: $9.99 Get it on steam: http://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/
+    Description: Co-operative top-down shooter. Starship Troopers: The Game. Over 100 Steam achievements and a leaderboard ;-)
 
-Let's make this first Playdate a great one.
+You can see the full results [here](https://docs.google.com/spreadsheets/d/1hWlMEK1YTGWYsAWSvSiSL5o1kIN4C0b3Mx15M9sLYHg).
+
+Remember that this is a week long Playdate, so if you can't play this exact second, that's ok. We hope to play it a bunch of times over the next week. Let's make this first Playdate a great one.
 
 ## Don't Forget To Subscribe
 
