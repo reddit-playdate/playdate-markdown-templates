@@ -14,7 +14,8 @@ This week's playdate is:
 
     Alien Swarm Reactive Drop
     Price: $9.99 Get it on steam: http://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/
-    Description: Co-operative top-down shooter. Starship Troopers: The Game. Over 100 Steam achievements and a leaderboard ;-)
+    Description: Co-operative top-down shooter. Starship Troopers: The Game.
+                 Over 100 Steam achievements and a leaderboard ;-)
 
 You can see the full results [here](https://docs.google.com/spreadsheets/d/1hWlMEK1YTGWYsAWSvSiSL5o1kIN4C0b3Mx15M9sLYHg).
 
