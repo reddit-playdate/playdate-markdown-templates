@@ -16,7 +16,7 @@ The winner for this weeks playdate it:
     Price: INSERT_PRICE
     Description: INSERT_DESCRIPTION
     
-It's been a while since we had a Playdate, so lets amke it a great one. 
+It's been a while since we had a Playdate, so lets make it a great one. 
 
 # How To Join
 
