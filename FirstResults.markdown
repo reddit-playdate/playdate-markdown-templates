@@ -10,12 +10,14 @@ Feel free to play other games too, of course ;-) We're just bringing /r/Playdate
 
 We had a [nominations thread](https://redd.it/75dnoi) on Monday, [voting thread](https://redd.it/75txk1) on Wednesday, and now it time for the results.
 
-The winner for this weeks playdate it:
+This week's playdate is:
 
     INSERT_GAME
     Price: INSERT_PRICE
     Description: INSERT_DESCRIPTION
-    
-Let's make this first Playdate a great one. Join our [Discord](https://discord.gg/playdate), [Steam group](http://steamcommunity.com/groups/joinplaydate) or make a new post and find someone to play this game with. You can also use this thread for organizing.
 
-Discord is currently our most active place to find people, but don't let it stop you from using others if you prefer them.
+Let's make this first Playdate a great one.
+
+## Don't Forget To Subscribe
+
+The main community platform is our [Discord server](https://discord.gg/playdate), but we welcome you to comment in the weekly threads, post to LFG here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), and connect with players and receive event announcements through our [Steam group](http://steamcommunity.com/groups/joinplaydate).

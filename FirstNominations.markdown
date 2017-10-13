@@ -18,12 +18,8 @@ Example:
     Description: A fun old flash game where you try to grab cheese as fast as you can with a shaman's help.
                  It times how fast you get the cheese which adds a speed component to it as well.
 
-## Voting
+On Wednesday, a post will go up that includes a form to vote with. Use that post as a place for extra discussion on the nominated games. Friday, one final thread will go up declaring a winner. This game will be the week's playdate.
 
-On Wednesday, a post will go up that includes a form to vote with. Use that post as a place for extra discussion on the nominated games.
+## Don't Forget To Subscribe
 
-## Results
-
-On Friday, one final thread will go up declaring a winner of the voting round. This game will be the week's playdate.
-
-The main platform for live organization is our [Discord server](https://discord.gg/playdate), but we welcome you to comment in the results thread, make a post here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), and keep in touch through our [Steam group](http://steamcommunity.com/groups/joinplaydate).
+The main community platform is our [Discord server](https://discord.gg/playdate), but we welcome you to comment in the weekly threads, post to LFG here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), and connect with players and receive event announcements through our [Steam group](http://steamcommunity.com/groups/joinplaydate).

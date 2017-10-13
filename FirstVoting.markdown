@@ -8,12 +8,12 @@ Feel free to play other games too, of course ;-) We're just bringing /r/Playdate
 
 ## Voting
 
-We had a [nominations thread on monday](https://www.reddit.com/r/Playdate/comments/75dnoi/weekly_playdate_nominations_post/). Now it's time to vote.
+We had a [nominations thread on Monday](https://www.reddit.com/r/Playdate/comments/75dnoi/weekly_playdate_nominations_post/). Now it's time to vote.
 
-You can use [this form](https://docs.google.com/forms/d/1lj9o23YQHXRSI80xdXLAIVUuqFBYyiE_1HtTq6bEzmg) to vote on your favorite game to play for the next week. Feel free to use this thread or other places (like [discord](https://discord.gg/playdate)) to talk about the games and persuade people to vote your way.
+Use [this form](https://docs.google.com/forms/d/1lj9o23YQHXRSI80xdXLAIVUuqFBYyiE_1HtTq6bEzmg) to cast a vote for your favorite game to play next week. Use this thread or other places (like [discord](https://discord.gg/playdate)) to discuss this week's selection and persuade people to vote your way.
 
-## Results
+On Friday, one final thread will go up naming the playdate for the coming week.
 
-On Friday, one final thread will go up declaring a winner of the voting round. This game will be the week's playdate.
+## Don't Forget To Subscribe
 
-The main platform for live organization is our [Discord server](https://discord.gg/playdate), but we welcome you to comment in the results thread, make a post here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), and keep in touch through our [Steam group](http://steamcommunity.com/groups/joinplaydate).
+The main community platform is our [Discord server](https://discord.gg/playdate), but we welcome you to comment in the weekly threads, post to LFG here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), and connect with players and receive event announcements through our [Steam group](http://steamcommunity.com/groups/joinplaydate).
