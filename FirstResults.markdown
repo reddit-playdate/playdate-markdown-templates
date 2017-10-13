@@ -16,6 +16,6 @@ The winner for this weeks playdate it:
     Price: INSERT_PRICE
     Description: INSERT_DESCRIPTION
     
-Let's make this first Playdate a great one. Join our [discord](https://discord.gg/playdate), [steam group](http://steamcommunity.com/groups/joinplaydate) or make a new post and find someone to play this game with. You can also use this thread for organizing.
+Let's make this first Playdate a great one. Join our [Discord](https://discord.gg/playdate), [Steam group](http://steamcommunity.com/groups/joinplaydate) or make a new post and find someone to play this game with. You can also use this thread for organizing.
 
 Discord is currently our most active place to find people, but don't let it stop you from using others if you prefer them.
