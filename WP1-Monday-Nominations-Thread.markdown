@@ -1,25 +1,26 @@
-# Weekly Playdate Nominations Post
+# Nominate a game to be included in this week's voting
 
-## Nominations
+- Eligible games are online multiplayer games with PC compatibility that have already been released.
+- You may nominate up to three games (in as little as one comment).
+- Simply comment with the name of the game(s) you'd like to nominate.
+- If you want to make things easy for the moderator team, also include details like a store link, price, and brief description.
 
-Use this thread to nominate a game you would like to see included in the next vote. Just the game name is fine, but try to include other details as well (price/brief description).
+## Example of a complete nomination
 
-Example:
+[Transformice](http://store.steampowered.com/app/335240/Transformice/)
 
-    Transformice
-    Price: Free
-    Platform: Windows/Mac/Linux/Broswer
-    Description: A fun old flash game where you try to grab cheese as fast as you can with a shaman's help.
-                 It times how fast you get the cheese which adds a speed component to it as well.
+Price: Free
 
-On Wednesday, a post will go up that includes a form to vote with. Use that post as a place for extra discussion on the nominated games. Friday, one final thread will go up declaring a winner. This game will be the week's playdate.
+Platform: Windows/Mac/Linux/Broswer
+
+Description: A fun old flash game where you try to grab cheese as fast as you can with a shaman's help. It times how fast you get the cheese which adds a speed component to it as well.
 
 ## Don't Forget To Subscribe
 
-The main community platform is our [Discord server](https://discord.gg/playdate), but we welcome you to comment in the weekly threads, post to LFG here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true), and connect with players and receive event announcements through our [Steam group](http://steamcommunity.com/groups/joinplaydate).
+The main community platform is the [Discord server](https://discord.gg/playdate). Comment in the weekly threads and post to look-for-groups here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true). Connect with players and receive event announcements through our [Steam group](http://steamcommunity.com/groups/joinplaydate).
 
 ## What Are Playdates
 
-A playdate is a week-long event where Redditors play the same game together. The idea is to be able to find someone to play it whenever you are free versus having one specific time for people to flake out on. Use playdates to revive your favorite (but dead) multiplayer game, hunt unearned multiplayer achievements, or whatever other reason you can come up with.
+A playdate is a week-long event where Redditors play the same game together. The idea is to be able to find someone to play it whenever you are free versus having one specific time for people to flake out on. Use playdates to revive your favorite (but dead) multiplayer game, hunt unearned multiplayer achievements, and simply connect with other gamers.
 
-Feel free to play other games too, of course ;-) We're just bringing /r/Playdate back to its [roots](https://www.reddit.com/r/gaming/comments/j8hpz/idea_for_subreddit_organize_nights_around/).
+We play games outside the weekly focus times too, of course ;-) We're just bringing /r/Playdate back to its [roots](https://www.reddit.com/r/gaming/comments/j8hpz/idea_for_subreddit_organize_nights_around/).
