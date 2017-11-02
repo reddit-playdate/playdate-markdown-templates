@@ -3,7 +3,7 @@
 - Eligible games are online multiplayer games with PC compatibility that have already been released.
 - You may nominate up to three games (in as little as one comment).
 - Simply comment with the name of the game(s) you'd like to nominate.
-- If you want to make things easy for the moderator team, also include details like a store link, price, and brief description.
+- To make things easy for the moderator team, also include details like a store link, price, and brief description.
 
 ## Example of a complete nomination
 
@@ -11,7 +11,7 @@
 
 Price: Free
 
-Platform: Windows/Mac/Linux/Broswer
+Platform: Windows/Mac/Linux/Browser
 
 Description: A fun old flash game where you try to grab cheese as fast as you can with a shaman's help. It times how fast you get the cheese which adds a speed component to it as well.
 
