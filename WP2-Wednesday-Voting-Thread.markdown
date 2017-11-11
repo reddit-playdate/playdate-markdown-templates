@@ -1,12 +1,8 @@
-# Weekly Playdate Voting Post
+# Vote for the game that will be this week's playdate
 
-## Voting
-
-We had a [nominations thread on Monday](https://www.reddit.com/r/Playdate/comments/75dnoi/weekly_playdate_nominations_post/). Now it's time to vote.
-
-Use [this form](https://docs.google.com/forms/d/1lj9o23YQHXRSI80xdXLAIVUuqFBYyiE_1HtTq6bEzmg) to cast a vote for your favorite game to play next week. Use this thread or other places (like [discord](https://discord.gg/playdate)) to discuss this week's selection and persuade people to vote your way.
-
-On Friday, one final thread will go up naming the playdate for the coming week.
+- This thread is in **Contest Mode**.
+- We'll name at least one winner, but depending on engagement in the next week will give time to any game that earns enough votes today.
+- **Discussion is important!** Get in the replies and make a case, for or against, the games you see nominated in this thread.
 
 ## Don't Forget To Subscribe
 
