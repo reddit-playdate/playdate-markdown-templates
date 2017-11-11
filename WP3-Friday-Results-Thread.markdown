@@ -1,19 +1,18 @@
-# Weekly Playdate Results Post
+# This week's playdate is:
 
-# Results
+[Alien Swarm Reactive Drop](http://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/)
 
-We had a [nominations thread](https://redd.it/75dnoi) on Monday, [voting thread](https://redd.it/75txk1) on Wednesday, and now it time for the results.
+Price: Free!
 
-This week's playdate is:
+Description: Co-operative top-down shooter. Starship Troopers: The Game. Over 100 Steam achievements and a leaderboard ;-)
 
-    Alien Swarm Reactive Drop
-    Price: $9.99 Get it on steam: http://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/
-    Description: Co-operative top-down shooter. Starship Troopers: The Game.
-                 Over 100 Steam achievements and a leaderboard ;-)
+# Re-cap of the week's gaming/discussion
 
-You can see the full results [here](https://docs.google.com/spreadsheets/d/1hWlMEK1YTGWYsAWSvSiSL5o1kIN4C0b3Mx15M9sLYHg).
+! Use this section to summarize what happened in the community over the last seven days.
 
-Remember that this is a week long Playdate, so if you can't play this exact second, that's ok. We hope to play it a bunch of times over the next week. Let's make this first Playdate a great one.
+## Remember, this is a week long playdate
+
+If you can't play this exact second, that's ok. Keep an eye on the Discord server, Steam group, and subreddit; there will be multiple opportunities to play together.
 
 ## Don't Forget To Subscribe
 
