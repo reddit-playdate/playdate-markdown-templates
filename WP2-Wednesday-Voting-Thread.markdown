@@ -6,7 +6,7 @@
 
 ## Don't Forget To Subscribe
 
-The main community platform is the [Discord server](https://discord.gg/playdate). Comment in the weekly threads and post to look-for-groups here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true). Connect with players and receive event announcements through our [Steam group](http://steamcommunity.com/groups/joinplaydate).
+The main community platform is the [Discord server](https://discord.gg/playdate). Comment in the weekly threads and post to look-for-groups here in the [subreddit](https://www.reddit.com/r/Playdate/submit?selftext=true). Connect with players and receive event announcements through our [Steam group](http://steamcommunity.com/groups/joinplaydate). **New!** We're in the [Battle.net Social Tab](https://blizzard.com/invite/eal73ILVO).
 
 ## What Are Playdates
 
