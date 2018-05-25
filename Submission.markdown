@@ -1,3 +1,6 @@
+**DON'T ADVERTISE YOUR GAME GROUP OR CLAN**  
+[Click here to find out how to properly advertise your group](https://www.reddit.com/advertising/)
+
 ## Tags
 
 While it isn't required, please consider including the following:
