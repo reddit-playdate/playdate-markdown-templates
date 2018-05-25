@@ -13,11 +13,7 @@ Description: BG Online is a board game. Online. Without a board, really. But on 
 
 # What happened this week?
 
-- We're back! We kind of skipped a week.
-- Playmates Waka and Jam have an ARK server setup. Hit them up on Discord for details.
-- People have been on a bit of an Overwatch kick lately.
-- sneakybehave is starting a new game of Wasteland 2 and would love to chat with you about it.
-- One of our nominations this week was [The Ship: Murder Party](http://store.steampowered.com/app/2400/The_Ship_Murder_Party/). /u/einexile had a good question: is this the same *The Ship* we know and love? It is! If you already owned *The Ship Remastered* you'll also have *Murder Party* in your library. It's the same game plus a few single-player features. 
+- 
 
 ## Don't Forget To Subscribe
 
